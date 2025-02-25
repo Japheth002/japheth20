@@ -1,0 +1,239 @@
+<!Doctype Html>
+   <html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width-device-width, initial-scale=1.0">
+        </head>
+        <title>theStoicPortfolio</title>
+        <style>
+            body{
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+      background-color: #f0f0f0;
+}
+   
+    header{
+          background-color: rgb(0, 0, 0);   
+          background-repeat: no-repeat;
+          background-position: 100px;
+          background-size: contain;
+          color: white;
+          padding: 70px;
+          text-align: center;
+    }
+
+    .section-style{
+        background-color: rgb(182, 169, 255);
+        background: url(/work/stoictagsimg.png);
+        background-repeat: no-repeat;
+        background-position: center;
+        background-blend-mode: screen;
+        margin: 20px;
+        padding: 20px;
+        border-radius: 8px;
+        box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    }
+
+    .section-style2{
+        background-color: white;
+        background: url(/work/stoictagsimg.jpg);
+        background-repeat: no-repeat;
+        background-position: center;
+        background-blend-mode:screen;
+        margin: 20px;
+        padding: 20px;
+        border-radius: 8px;
+        box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    }
+
+
+
+    h2{
+        color: rgb(207, 87, 6);
+    }
+
+    h2{
+        color: white;
+    }
+
+.topnav{
+    background-color: #181717;
+    overflow: hidden;
+}
+
+.topnav a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: solid;
+    font-size: 17px;
+}
+
+.topnav a:hover {
+    background-color: #202020;
+    color: black;
+}
+
+.topnav a.active {
+    background-color: rgb(148, 92, 9);
+    color: rgb(0, 0, 0);
+}
+
+    footer{
+        background-color: rgb(0, 0, 0);
+        color: white;
+        padding: 20px 0;
+    }
+
+    .footer-container {
+        display: flex;
+        justify-content: space-around;
+        padding: 20px;
+    }
+
+    .footer-container div {
+        max-width: 300px;
+    }
+
+    .footer-container h3 {
+        color: purple
+    }
+
+    .footer-container ul {
+        list-style: none;
+        padding: 0;
+    }
+
+    .footer-container a {
+        color: #fff;
+        text-decoration: none;
+    }
+
+    .footer-container a:hover {
+        text-decoration: underline;
+    }
+
+    .footer-bottom {
+        text-align: center;
+        padding: 10px 0;
+        border-top: 1px solid #447084;
+        margin-top: 20px;
+    }
+        </style>
+
+    </head>
+    <body>
+
+<header>
+    
+    <h1>
+        <img src="/work/stoictagsimg.png" width="200px" height="200px" alt="StoicTags Logo">
+        <h1 style="text-align: center;"><span style="color: rgb(148, 92, 9);">Stoic</span><span style="color: rgb(95, 119, 255);">Tags</span></p>
+        </h1>
+         <address style="color: rgb(255, 255, 255);">where coding is seamless, yet fun!...</address>
+
+<div class="topnav">
+    <a class="active"></a>
+       <a>Home</a>
+       <a>About Us</a>
+       <a>Our Services</a>
+       <a>Contact Us</a>
+       </div>
+  
+</header>
+
+<section class="section-style" style="background-color:rgb(182, 169, 255);">
+    <b><h1 style="text-align: center;">ABOUT US</h1></b>
+    <p style="text-align: left;">Hey There!
+        Welcome to <b>StoicTags</b>, here we make sure to envision, visualize and build your dream website. We are special with codes
+        which makes coding not only seamless to build, but also fun!
+        At <b>StoicTags</b>, we design the best and most stylish websites which leaves our customers in awe. We are fast, efficient, accurate 
+        and most importantly, we are simultaneous, spontaneous and asynchronous with our sites which makes it seamless for us to meet deadlines
+        You can always count on us to deliver, because webpages are our jam!
+    </p>
+</section>
+
+
+<section class="section-style2" style="background-color: rgb(182, 169, 255);">
+<b><h1 style="text-align: center">OUR SKILLS & TECH STACK</h1>
+    <p style="text-align: left;">At <b>StoicTags</b> we ensure that we are efficient with our programming languages, and some of the languages that we utilize are;</p>
+    
+    <ul>
+        <li><h3>Hyper Text Markup Language <b>(HTML)</b></h3></li>
+        <li><h3>Cascading Style Sheet <b>(CSS)</b></h3></li>
+        <li><h3>Javascript</h3></li>
+        <li><h3>React</h3></li>
+        <li><h3>Vue</h3></li>
+        <li><h3>Next.js</h3></li>
+    </ul>
+    <p style="text-align: left;">And many more...!</p>
+
+
+</section>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<section class="section-style2" style="background-color: rgb(182, 169, 255);">
+    <h1 style="text-align: center;">OUR PROJECT SHOWCASE</h1>
+    <p style="text-align: left;">At <b>StoicTags</b> we specialize in designing the best webpages, and we'd be more than delighted to show you some of our outputs!
+</p>
+<img src="/work/coding1.png" alt="first coding image" width="600" height="auto">            <img src="/work/coding3.png" alt="secod coding image" width="600" height="auto">
+<p style="text-align: left;"><address>(img.1 our very own source code for StoicTags with Visual Studio Code)</address></p>
+<p style="text-align: right;"><address>(img.2 code for a university webpage with Visual Studio Code)</address></p>
+<img src="/work/output1.png" alt="first output image" width="600" height="auto">            <img src="/work/output2.png" alt="second output image" width="600" height="auto">
+<p style="text-align: right;"><address>(img.3 the output of the img.1, cross tested on Chrome)</address></p>
+<p style="text-align: right;"><address>(img.2 the output of the img.2, cross tested on Chrome)</address></p>
+<p></p>
+
+ 
+</section>
+
+<section class="section-style" style="background-color: rgb(182, 169, 255);">
+    <b><h1 style="text-align: center;">CONTACT US</h1></b>
+    <p style="text-align: left;">We're here to help your business thrive with innovative web-related solutions. 
+    Whether you have questions, need a consultation, or want to explore how we can support your goals, feel free
+to reach out. Please get in touch, thanks...</p>
+
+<img src="/work/whatsapp.jpeg" width="35px" height="35px">   <b> Phone:</b> <span style="color: rgb(0, 7, 44);"> +234-011-123-911-4111</span></h4>
+
+<h4><img src="/work/gmail.jpeg" width="35px" height="35px">    Gmail: <span style="color: rgb(0, 7, 44);"> stoictags247@gmail.com</span></h4><br>
+
+<h4 style="color: white;">Follow us:  Instagram:  <span style="color: rgb(0, 7, 44);"> @stoic_tagsng</span> |  X: <span style="color: rgb(0, 7, 44);"> @stoictags_nig</span> | LinkedIn: <span style="color: rgb(0, 7, 44);"> Embold Lab</span>
+</center>
+
+
+<p></p>
+
+<textarea style="height: 75px; width: 450px;">
+    Please leave a feedback, it helps improve our website, thanks!
+</textarea>
+
+</section>
+
+<footer>
+    <div class="footer-contact">
+
+
+<div class="footer-bottom">
+    <p>&copy;|  @ 2024 Stoic Tags All Rights Reserved. |</p><br>
+    <address>generated by Omoigiafu Japheth </address>
+    
+
+
+</footer>
+
+    </body>
+</html>
